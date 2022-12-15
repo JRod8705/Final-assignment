@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.youtube-video{
+    float: right;
+}
+h3{
+    text-decoration: underline;
+}
+
+.box{
+    height: 250px;
+    width: 250px;
+    padding: 10px; /* space inside */
+    margin: 15px; /* space outside */
+    border-width: 5px;
+    border-style: double;
+    border-color: black;
+    display: inline-block; 
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+    text-decoration-color: black;
+}   
+.box1{
+    background: #748f6a;
+}
+.box2{
+    background-color: rgb(152, 162, 65);
+}
+.box3{
+    background-color: rgb(187, 134, 216);
+}
+.box4{
+    background-color: rgb(111, 118, 130);
+}
+body{
+    background-color: rgb(113, 227, 46);
+}

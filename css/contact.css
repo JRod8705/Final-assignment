@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 50px;
+  width: 100%;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: radial-gradient(rgb(24, 107, 180) 10%, rgb(227, 143, 16)
+  25%, rgb(226, 89, 20) 65%);
+}
+.poker{
+  float: right;
+}
+.google-map2{
+  float: left;
+}
