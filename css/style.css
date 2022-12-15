@@ -57,7 +57,7 @@ main{
     height: 840px;
     width: 100%;
     background-color: rgb(58, 18, 18);
-    background-image: url('/img/pocketKK.jpg');
+    background-image: url('../img/pocketKK.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
